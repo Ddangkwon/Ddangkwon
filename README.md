@@ -17,4 +17,10 @@
 <h3 align="center"> ADAS Sensor SW Engineer  </h3>
 
 ## Blogs
-@https://zerofist.github.io/
+<p align="center">
+<a href="https://zerofist.github.io/index.html">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://zerofist.github.io/index.html"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</p>
