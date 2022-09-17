@@ -14,7 +14,7 @@
 </p>
 
 ## Jobs
-<h3 align="center">🛠 ADAS Sensor SW Engineer  🛠</h3>
+<h3 align="center"> ADAS Sensor SW Engineer  </h3>
 
 ## Blogs
 @https://zerofist.github.io/
